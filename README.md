@@ -95,3 +95,4 @@
 计划读：
 - https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md
 - [The Top 11 Mistakes That JavaScript Developers Make](https://www.airpair.com/javascript/posts/eleven-mistakes-developers-javascript)
+- [Linux工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
